@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Let's connect:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-mehta18/)
 &nbsp;
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mehta.payal2000@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mehta.payal2000@gmail.com)
 
 ## About Me: 🙋‍♀️
 
