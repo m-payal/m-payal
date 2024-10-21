@@ -66,7 +66,7 @@ I also had the opportunity to work as a Summer Analyst Intern at Citibank in Pun
 - _Automation & Collaboration:_ Microsoft SharePoint, Power Automate, Microsoft Forms
 
 **Machine Learning Frameworks:**
-- _Data Processing & Analysis:_ Pandas, NumPy, Scikit-learn, Seaborn, Plotly, matplotlib
+- _Data Processing & Analysis:_ Pandas, NumPy, Scikit-learn, Seaborn, Plotly, matplotlib, Power BI, Tableau
 - _Deep Learning Frameworks:_ TensorFlow, PyTorch, Keras, NLTK
 
 **Cloud Services:**
