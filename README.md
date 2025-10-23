@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - Masters Student at NC State University
-- UX/Ui Intern @ SupplyPoint
+- Web Developer @ SupplyPoint
 - Let's connect:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-mehta18/)
 &nbsp;
