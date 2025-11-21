@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - Masters Student at NC State University
-- Web Developer @ SupplyPoint
+- Software Developer @ SupplyPoint
 - Let's connect:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-mehta18/)
 &nbsp;
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## About Me: 🙋‍♀️
 
-I am currently pursuing a Master of Computer Science at North Carolina State University, expected to graduate in May 2025. I hold a Bachelor of Computer Engineering from MKSSS Cummins College of Engineering for Women, Pune, India. My academic focus spans Software Engineering, UI/UX, Database Management, Data Science, and Artificial Intelligence.
+I am recently graduated with a Master of Computer Science degree from North Carolina State University. I hold a Bachelor of Computer Engineering from MKSSS Cummins College of Engineering for Women, Pune, India. My academic focus spans Software Engineering, UI/UX, Database Management, Data Science, and Artificial Intelligence.
 
 
 ## Work Experience: 👩‍💻
